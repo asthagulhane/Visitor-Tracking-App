@@ -1,9 +1,4 @@
-pip install cmake==3.12.0 dlib==19.16.0 numpy==1.15.3 opencv-python==3.4.3.18
-
-
-pip install azure-cognitiveservices-vision-computervision
-pip install msrest
-pip install pillow
-pip install opencv-python
-pip install google-api-python-client google-auth google-auth-oauthlib
-pip install django mysql-connector-python pymysql mysqlclient
+cmake==3.22.1
+dlib==19.24.2
+numpy==1.23.5
+opencv-python==4.8.0.74
